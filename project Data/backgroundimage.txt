@@ -1,0 +1,11 @@
+import bg from "../productImages/addProduct.jpg";
+    <div
+      className="container-fluid"
+      style={{
+        backgroundImage: `url(${bg})`,
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        height: "100vh",
+        width: "100vw",
+      }}
+    >

@@ -1,0 +1,4 @@
+drop table products;
+drop table specifications;
+drop table categories;
+
